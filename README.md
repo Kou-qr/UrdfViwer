@@ -6,6 +6,7 @@ show the urdf with meshes in rviz
 mkdir UrdfViwer
 cd ~/UrdfViwer
 git clone git@github.com:Sher1ockFan/UrdfViwer.git
+mv UrdfViwer/ src/
 catkin build
 ```
 
