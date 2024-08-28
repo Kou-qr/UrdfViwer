@@ -1,20 +1,25 @@
 # UrdfViwer
-show the urdf with meshes in rviz only on noetic
+show the urdf with meshes in rviz by ros2
 
-## Use catkin build
+## install gui
+```bash
+sudo apt install ros-humble-joint-state-publisher-gui
+```
+
+## Use colcon build
 ```bash
 mkdir UrdfViwer
 cd ~/UrdfViwer
 git clone git@github.com:Sher1ockFan/UrdfViwer.git
 mv UrdfViwer/ src/
-catkin build
+colcon build
 ```
 ## Before run the rviz
 replace the meshes path with
-package://urdfRviz/meshes
+package://urdf_rviz/meshes
 
 ## Use roslaunch to run rviz with model
 ```bash
-. devel/setup.bash
-roslaunch urdf_tutorial display.launch model:./src/urdf_model/inspire_hands.urdf
+. install/setup.bash
+ros2 launch urdf_viewer display.launch.py
 ```

@@ -36,7 +36,7 @@
         rpy="3.1415926 0 3.1415926" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_hand_base_link.STL" />
+          filename="package://urdf_viewer/meshes/R_hand_base_link.STL" />
       </geometry>
       <material
         name="">
@@ -50,7 +50,7 @@
         rpy="3.1415926 0 3.1415926"  />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_hand_base_link.STL" />
+          filename="package://urdf_viewer/meshes/R_hand_base_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -76,7 +76,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_thumb_proximal_base.STL" />
+          filename="package://urdf_viewer/meshes/R_thumb_proximal_base.STL" />
       </geometry>
       <material
         name="">
@@ -90,7 +90,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_thumb_proximal_base.STL" />
+          filename="package://urdf_viewer/meshes/R_thumb_proximal_base.STL" />
       </geometry>
     </collision>
   </link>
@@ -134,7 +134,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_thumb_proximal.STL" />
+          filename="package://urdf_viewer/meshes/R_thumb_proximal.STL" />
       </geometry>
       <material
         name="">
@@ -148,7 +148,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_thumb_proximal.STL" />
+          filename="package://urdf_viewer/meshes/R_thumb_proximal.STL" />
       </geometry>
     </collision>
   </link>
@@ -192,7 +192,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_thumb_intermediate.STL" />
+          filename="package://urdf_viewer/meshes/R_thumb_intermediate.STL" />
       </geometry>
       <material
         name="">
@@ -206,7 +206,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_thumb_intermediate.STL" />
+          filename="package://urdf_viewer/meshes/R_thumb_intermediate.STL" />
       </geometry>
     </collision>
   </link>
@@ -250,7 +250,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_thumb_distal.STL" />
+          filename="package://urdf_viewer/meshes/R_thumb_distal.STL" />
       </geometry>
       <material
         name="">
@@ -264,7 +264,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_thumb_distal.STL" />
+          filename="package://urdf_viewer/meshes/R_thumb_distal.STL" />
       </geometry>
     </collision>
   </link>
@@ -308,7 +308,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_index_proximal.STL" />
+          filename="package://urdf_viewer/meshes/R_index_proximal.STL" />
       </geometry>
       <material
         name="">
@@ -322,7 +322,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_index_proximal.STL" />
+          filename="package://urdf_viewer/meshes/R_index_proximal.STL" />
       </geometry>
     </collision>
   </link>
@@ -366,7 +366,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_index_distal.STL" />
+          filename="package://urdf_viewer/meshes/R_index_distal.STL" />
       </geometry>
       <material
         name="">
@@ -380,7 +380,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_index_distal.STL" />
+          filename="package://urdf_viewer/meshes/R_index_distal.STL" />
       </geometry>
     </collision>
   </link>
@@ -424,7 +424,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_middle_proximal.STL" />
+          filename="package://urdf_viewer/meshes/R_middle_proximal.STL" />
       </geometry>
       <material
         name="">
@@ -438,7 +438,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_middle_proximal.STL" />
+          filename="package://urdf_viewer/meshes/R_middle_proximal.STL" />
       </geometry>
     </collision>
   </link>
@@ -482,7 +482,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_middle_distal.STL" />
+          filename="package://urdf_viewer/meshes/R_middle_distal.STL" />
       </geometry>
       <material
         name="">
@@ -496,7 +496,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_middle_distal.STL" />
+          filename="package://urdf_viewer/meshes/R_middle_distal.STL" />
       </geometry>
     </collision>
   </link>
@@ -540,7 +540,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_ring_proximal.STL" />
+          filename="package://urdf_viewer/meshes/R_ring_proximal.STL" />
       </geometry>
       <material
         name="">
@@ -554,7 +554,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_ring_proximal.STL" />
+          filename="package://urdf_viewer/meshes/R_ring_proximal.STL" />
       </geometry>
     </collision>
   </link>
@@ -598,7 +598,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_ring_distal.STL" />
+          filename="package://urdf_viewer/meshes/R_ring_distal.STL" />
       </geometry>
       <material
         name="">
@@ -612,7 +612,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_ring_distal.STL" />
+          filename="package://urdf_viewer/meshes/R_ring_distal.STL" />
       </geometry>
     </collision>
   </link>
@@ -656,7 +656,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_pinky_proximal.STL" />
+          filename="package://urdf_viewer/meshes/R_pinky_proximal.STL" />
       </geometry>
       <material
         name="">
@@ -670,7 +670,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_pinky_proximal.STL" />
+          filename="package://urdf_viewer/meshes/R_pinky_proximal.STL" />
       </geometry>
     </collision>
   </link>
@@ -714,7 +714,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_pinky_distal.STL" />
+          filename="package://urdf_viewer/meshes/R_pinky_distal.STL" />
       </geometry>
       <material
         name="">
@@ -728,7 +728,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/R_pinky_distal.STL" />
+          filename="package://urdf_viewer/meshes/R_pinky_distal.STL" />
       </geometry>
     </collision>
   </link>
@@ -780,7 +780,7 @@
         rpy="0 0 3.1415926" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_hand_base_link.STL" />
+          filename="package://urdf_viewer/meshes/L_hand_base_link.STL" />
       </geometry>
       <material
         name="">
@@ -794,7 +794,7 @@
         rpy="0 0 3.1415926" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_hand_base_link.STL" />
+          filename="package://urdf_viewer/meshes/L_hand_base_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -820,7 +820,7 @@
         rpy="0 0.3 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_thumb_proximal_base.STL" />
+          filename="package://urdf_viewer/meshes/L_thumb_proximal_base.STL" />
       </geometry>
       <material
         name="">
@@ -834,7 +834,7 @@
         rpy="0 0.3 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_thumb_proximal_base.STL" />
+          filename="package://urdf_viewer/meshes/L_thumb_proximal_base.STL" />
       </geometry>
     </collision>
   </link>
@@ -878,7 +878,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_thumb_proximal.STL" />
+          filename="package://urdf_viewer/meshes/L_thumb_proximal.STL" />
       </geometry>
       <material
         name="">
@@ -892,7 +892,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_thumb_proximal.STL" />
+          filename="package://urdf_viewer/meshes/L_thumb_proximal.STL" />
       </geometry>
     </collision>
   </link>
@@ -936,7 +936,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_thumb_intermediate.STL" />
+          filename="package://urdf_viewer/meshes/L_thumb_intermediate.STL" />
       </geometry>
       <material
         name="">
@@ -950,7 +950,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_thumb_intermediate.STL" />
+          filename="package://urdf_viewer/meshes/L_thumb_intermediate.STL" />
       </geometry>
     </collision>
   </link>
@@ -994,7 +994,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_thumb_distal.STL" />
+          filename="package://urdf_viewer/meshes/L_thumb_distal.STL" />
       </geometry>
       <material
         name="">
@@ -1008,7 +1008,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_thumb_distal.STL" />
+          filename="package://urdf_viewer/meshes/L_thumb_distal.STL" />
       </geometry>
     </collision>
   </link>
@@ -1052,7 +1052,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_index_proximal.STL" />
+          filename="package://urdf_viewer/meshes/L_index_proximal.STL" />
       </geometry>
       <material
         name="">
@@ -1066,7 +1066,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_index_proximal.STL" />
+          filename="package://urdf_viewer/meshes/L_index_proximal.STL" />
       </geometry>
     </collision>
   </link>
@@ -1110,7 +1110,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_index_distal.STL" />
+          filename="package://urdf_viewer/meshes/L_index_distal.STL" />
       </geometry>
       <material
         name="">
@@ -1124,7 +1124,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_index_distal.STL" />
+          filename="package://urdf_viewer/meshes/L_index_distal.STL" />
       </geometry>
     </collision>
   </link>
@@ -1168,7 +1168,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_middle_proximal.STL" />
+          filename="package://urdf_viewer/meshes/L_middle_proximal.STL" />
       </geometry>
       <material
         name="">
@@ -1182,7 +1182,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_middle_proximal.STL" />
+          filename="package://urdf_viewer/meshes/L_middle_proximal.STL" />
       </geometry>
     </collision>
   </link>
@@ -1226,7 +1226,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_middle_distal.STL" />
+          filename="package://urdf_viewer/meshes/L_middle_distal.STL" />
       </geometry>
       <material
         name="">
@@ -1240,7 +1240,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_middle_distal.STL" />
+          filename="package://urdf_viewer/meshes/L_middle_distal.STL" />
       </geometry>
     </collision>
   </link>
@@ -1284,7 +1284,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_ring_proximal.STL" />
+          filename="package://urdf_viewer/meshes/L_ring_proximal.STL" />
       </geometry>
       <material
         name="">
@@ -1298,7 +1298,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_ring_proximal.STL" />
+          filename="package://urdf_viewer/meshes/L_ring_proximal.STL" />
       </geometry>
     </collision>
   </link>
@@ -1342,7 +1342,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_ring_distal.STL" />
+          filename="package://urdf_viewer/meshes/L_ring_distal.STL" />
       </geometry>
       <material
         name="">
@@ -1356,7 +1356,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_ring_distal.STL" />
+          filename="package://urdf_viewer/meshes/L_ring_distal.STL" />
       </geometry>
     </collision>
   </link>
@@ -1400,7 +1400,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_pinky_proximal.STL" />
+          filename="package://urdf_viewer/meshes/L_pinky_proximal.STL" />
       </geometry>
       <material
         name="">
@@ -1414,7 +1414,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_pinky_proximal.STL" />
+          filename="package://urdf_viewer/meshes/L_pinky_proximal.STL" />
       </geometry>
     </collision>
   </link>
@@ -1458,7 +1458,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_pinky_distal.STL" />
+          filename="package://urdf_viewer/meshes/L_pinky_distal.STL" />
       </geometry>
       <material
         name="">
@@ -1472,7 +1472,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdfRviz/meshes/L_pinky_distal.STL" />
+          filename="package://urdf_viewer/meshes/L_pinky_distal.STL" />
       </geometry>
     </collision>
   </link>
