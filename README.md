@@ -1,8 +1,9 @@
 # UrdfViwer
 show the urdf with meshes in rviz by ros2
 
-## install gui
+## Install dependencies
 ```bash
+sudo apt install python3-colcon-common-extensions
 sudo apt install ros-humble-joint-state-publisher-gui
 ```
 
