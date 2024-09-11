@@ -17,4 +17,4 @@ package://urdfRviz/meshes
 ```bash
 . devel/setup.bash
 roslaunch urdf_tutorial display.launch model:./src/urdf_model/inspire_hands.urdf
-```
+```///
